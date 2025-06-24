@@ -142,7 +142,7 @@ function App() {
                   rel="noopener noreferrer"
                 >
                   <ExternalLink className="h-4 w-4 mr-2" />
-                  Main Website
+                  My Website
                 </a>
               </Button>
               <ModeToggle />
