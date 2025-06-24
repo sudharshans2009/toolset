@@ -110,7 +110,7 @@ function App() {
       <div className="min-h-screen text-foreground relative z-10">
         {/* Header */}
         <motion.header
-          className="border-b sticky top-0 z-50 bg-background/50"
+          className="border-b sticky top-0 z-50 bg-background/50 backdrop-blur-md"
           initial={{ y: -50, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.5 }}
