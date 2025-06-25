@@ -56,6 +56,14 @@ const tools: Tool[] = [
     image: "/images/convolution-matrix.png",
     tags: ["Image Processing", "Computer Vision", "Filters"],
   },
+  {
+    title: "Markdown Editor",
+    url: "https://markdown-editor.sudharshans.me/",
+    description:
+      "Write and preview Markdown in real-time. Ideal for documentation, blogging, and note-taking.",
+    image: "/images/markdown-editor.png",
+    tags: ["Markdown", "Writing", "Preview"],
+  }
 ];
 
 function App() {
